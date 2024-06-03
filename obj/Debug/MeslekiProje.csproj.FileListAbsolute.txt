@@ -1,0 +1,43 @@
+C:\Users\barutbilgisayar-A2\Desktop\MeslekiProje\MeslekiProje\bin\Debug\MeslekiProje.exe.config
+C:\Users\barutbilgisayar-A2\Desktop\MeslekiProje\MeslekiProje\bin\Debug\MeslekiProje.exe
+C:\Users\barutbilgisayar-A2\Desktop\MeslekiProje\MeslekiProje\bin\Debug\MeslekiProje.pdb
+C:\Users\barutbilgisayar-A2\Desktop\MeslekiProje\MeslekiProje\obj\Debug\MeslekiProje.csprojAssemblyReference.cache
+C:\Users\barutbilgisayar-A2\Desktop\MeslekiProje\MeslekiProje\obj\Debug\MeslekiProje.Anasayfa.resources
+C:\Users\barutbilgisayar-A2\Desktop\MeslekiProje\MeslekiProje\obj\Debug\MeslekiProje.Kullanıcı_Giris.resources
+C:\Users\barutbilgisayar-A2\Desktop\MeslekiProje\MeslekiProje\obj\Debug\MeslekiProje.KargomNerede.resources
+C:\Users\barutbilgisayar-A2\Desktop\MeslekiProje\MeslekiProje\obj\Debug\MeslekiProje.Properties.Resources.resources
+C:\Users\barutbilgisayar-A2\Desktop\MeslekiProje\MeslekiProje\obj\Debug\MeslekiProje.csproj.GenerateResource.cache
+C:\Users\barutbilgisayar-A2\Desktop\MeslekiProje\MeslekiProje\obj\Debug\MeslekiProje.csproj.CoreCompileInputs.cache
+C:\Users\barutbilgisayar-A2\Desktop\MeslekiProje\MeslekiProje\obj\Debug\MeslekiProje.exe
+C:\Users\barutbilgisayar-A2\Desktop\MeslekiProje\MeslekiProje\obj\Debug\MeslekiProje.pdb
+G:\MeslekiProje\MeslekiProje\MeslekiProje\bin\Debug\MeslekiProje.exe.config
+G:\MeslekiProje\MeslekiProje\MeslekiProje\bin\Debug\MeslekiProje.exe
+G:\MeslekiProje\MeslekiProje\MeslekiProje\bin\Debug\MeslekiProje.pdb
+G:\MeslekiProje\MeslekiProje\MeslekiProje\obj\Debug\MeslekiProje.csprojAssemblyReference.cache
+G:\MeslekiProje\MeslekiProje\MeslekiProje\obj\Debug\MeslekiProje.Gonderi.resources
+G:\MeslekiProje\MeslekiProje\MeslekiProje\obj\Debug\MeslekiProje.Musteri.resources
+G:\MeslekiProje\MeslekiProje\MeslekiProje\obj\Debug\MeslekiProje.Properties.Resources.resources
+G:\MeslekiProje\MeslekiProje\MeslekiProje\obj\Debug\MeslekiProje.Sikayet.resources
+G:\MeslekiProje\MeslekiProje\MeslekiProje\obj\Debug\MeslekiProje.Sorgula.resources
+G:\MeslekiProje\MeslekiProje\MeslekiProje\obj\Debug\MeslekiProje.csproj.GenerateResource.cache
+G:\MeslekiProje\MeslekiProje\MeslekiProje\obj\Debug\MeslekiProje.csproj.CoreCompileInputs.cache
+G:\MeslekiProje\MeslekiProje\MeslekiProje\obj\Debug\MeslekiProje.exe
+G:\MeslekiProje\MeslekiProje\MeslekiProje\obj\Debug\MeslekiProje.pdb
+G:\MeslekiProje\MeslekiProje\MeslekiProje\obj\Debug\MeslekiProje.Kullanici.resources
+G:\MeslekiProje\MeslekiProje\MeslekiProje\obj\Debug\MeslekiProje.Panel.resources
+C:\Users\barutbilgisayar-A2\Desktop\Mesleki Proje\bin\Debug\MeslekiProje.exe.config
+C:\Users\barutbilgisayar-A2\Desktop\Mesleki Proje\bin\Debug\MeslekiProje.exe
+C:\Users\barutbilgisayar-A2\Desktop\Mesleki Proje\bin\Debug\MeslekiProje.pdb
+C:\Users\barutbilgisayar-A2\Desktop\Mesleki Proje\obj\Debug\MeslekiProje.csprojAssemblyReference.cache
+C:\Users\barutbilgisayar-A2\Desktop\Mesleki Proje\obj\Debug\MeslekiProje.Gonderi.resources
+C:\Users\barutbilgisayar-A2\Desktop\Mesleki Proje\obj\Debug\MeslekiProje.Kullanici.resources
+C:\Users\barutbilgisayar-A2\Desktop\Mesleki Proje\obj\Debug\MeslekiProje.Musteri.resources
+C:\Users\barutbilgisayar-A2\Desktop\Mesleki Proje\obj\Debug\MeslekiProje.Panel.resources
+C:\Users\barutbilgisayar-A2\Desktop\Mesleki Proje\obj\Debug\MeslekiProje.Properties.Resources.resources
+C:\Users\barutbilgisayar-A2\Desktop\Mesleki Proje\obj\Debug\MeslekiProje.Sikayet.resources
+C:\Users\barutbilgisayar-A2\Desktop\Mesleki Proje\obj\Debug\MeslekiProje.Sorgula.resources
+C:\Users\barutbilgisayar-A2\Desktop\Mesleki Proje\obj\Debug\MeslekiProje.Subeler.resources
+C:\Users\barutbilgisayar-A2\Desktop\Mesleki Proje\obj\Debug\MeslekiProje.csproj.GenerateResource.cache
+C:\Users\barutbilgisayar-A2\Desktop\Mesleki Proje\obj\Debug\MeslekiProje.csproj.CoreCompileInputs.cache
+C:\Users\barutbilgisayar-A2\Desktop\Mesleki Proje\obj\Debug\MeslekiProje.exe
+C:\Users\barutbilgisayar-A2\Desktop\Mesleki Proje\obj\Debug\MeslekiProje.pdb
