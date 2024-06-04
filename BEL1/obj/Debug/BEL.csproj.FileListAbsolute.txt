@@ -1,0 +1,12 @@
+C:\Users\Zehra\source\repos\KargoTakipOtomasyonu\BEL1\bin\Debug\BEL1.dll
+C:\Users\Zehra\source\repos\KargoTakipOtomasyonu\BEL1\bin\Debug\BEL1.pdb
+C:\Users\Zehra\source\repos\KargoTakipOtomasyonu\BEL1\obj\Debug\BEL.csprojAssemblyReference.cache
+C:\Users\Zehra\source\repos\KargoTakipOtomasyonu\BEL1\obj\Debug\BEL.csproj.CoreCompileInputs.cache
+C:\Users\Zehra\source\repos\KargoTakipOtomasyonu\BEL1\obj\Debug\BEL1.dll
+C:\Users\Zehra\source\repos\KargoTakipOtomasyonu\BEL1\obj\Debug\BEL1.pdb
+C:\Users\Zehra\Desktop\program\KargoTakipOtomasyonu\BEL1\bin\Debug\BEL1.dll
+C:\Users\Zehra\Desktop\program\KargoTakipOtomasyonu\BEL1\bin\Debug\BEL1.pdb
+C:\Users\Zehra\Desktop\program\KargoTakipOtomasyonu\BEL1\obj\Debug\BEL.csprojAssemblyReference.cache
+C:\Users\Zehra\Desktop\program\KargoTakipOtomasyonu\BEL1\obj\Debug\BEL.csproj.CoreCompileInputs.cache
+C:\Users\Zehra\Desktop\program\KargoTakipOtomasyonu\BEL1\obj\Debug\BEL1.dll
+C:\Users\Zehra\Desktop\program\KargoTakipOtomasyonu\BEL1\obj\Debug\BEL1.pdb
